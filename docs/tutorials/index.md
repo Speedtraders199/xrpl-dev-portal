@@ -1,4 +1,4 @@
----
+---xrpl-dev-blockchain-portal
 seo:
     description: Learn how to get started building on the XRP Ledger with these helpful crypto wallet and blockchain tutorials for developers.
 ---
@@ -31,11 +31,12 @@ These tutorials walk you through the basics of building a very simple XRP Ledger
 These examples provide step-by-step instructions for administrative tasks.
 
 {% card-grid %}
-
+Block chain wallet 
 {% xrpl-card title="Manage Account Settings" body="Set up your XRP Ledger account to send and receive payments the way you want it to." href="/docs/tutorials/how-tos/manage-account-settings/" /%}
 {% xrpl-card title="Use Specialized Payment Types" body="Use advanced features like Escrow and Payment Channels to build smart applications on the XRP Ledger." href="/docs/tutorials/how-tos/use-specialized-payment-types/" /%}
 {% xrpl-card title="Use Tokens" body="Create and trade tokens (fungible or otherwise) in the XRP Ledger." href="/docs/tutorials/how-tos/use-tokens/" /%}
 {% xrpl-card title="Use XRPL Sidechains" body="Bridge XRP and tokens from Mainnet to XRPL sidechains." href="/docs/tutorials/how-tos/use-xrpl-sidechains/" /%}
-
-
+Xrpl(100%)
+Bitcoin-xrpl-blockchain-body-authorize
 {% /card-grid %}
+Wallet connected 
